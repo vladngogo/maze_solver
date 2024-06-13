@@ -1,0 +1,6 @@
+# ignore .env file
+.env
+# ignore logs
+*.log*
+# ignore __pycache__ folder
+__pycache__/
